@@ -40,7 +40,7 @@
 </br>
 <h2>📊 My Github Stats</h2>
 <img src = "https://github-readme-stats.vercel.app/api?username=yohanawi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
-<a href="#"><img width="25%" height="25%" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" height="175px"/></a>
+
 
 <br/>
  <a href="https://github.com/yohanawi/github-readme-stats"><img alt="Yohan Awishka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanawi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -59,8 +59,8 @@
 
 <a href = "https://www.linkedin.com/in/yohan-awishka-16921817a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/yohan_awishka1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/yohanawishka/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-</a><a href = "https://www.facebook.com/yohan.awishka.3/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>    
+<a href = "https://www.instagram.com/yohanawishka/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/yohan.awishka.3/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>    
 <a href = "https://www.youtube.com/channel/UCJySLVr5-5fPVvaMg9h3BEg" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>    
 <a href = "https://www.behance.net/yohanawishka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a> 
 <a href = "https://dribbble.com/yohanawishka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a> 
