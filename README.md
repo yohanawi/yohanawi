@@ -1,15 +1,16 @@
-10:09 AM 2/21/202210:09 AM 2/21/202210:10 AM 2/21/2022<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yohan</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Yohan Awishka</h1>
 
-<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
+<h3 align="center">I am a passionate Developer from Sri Lanka.</h3>
 
 - 👋 Hi, I’m @yohanawi
 - 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Sri Lanka Institute of Information Technology 
 - 💞️ I’m looking to collaborate on OpenSource Projects.
 - 📫 How to reach me : yohanawishka2000326@gmail.com
+- 🔭 I’m currently working on this page. 
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -55,11 +56,16 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/yohan-awishka-16921817a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/yohan-awishka-16921817a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/yohan_awishka1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/yohanawishka/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a><a href = "https://www.facebook.com/yohan.awishka.3/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>    
+<a href = "https://www.youtube.com/channel/UCJySLVr5-5fPVvaMg9h3BEg" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>    
+<a href = "https://www.behance.net/yohanawishka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a> 
+<a href = "https://dribbble.com/yohanawishka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a> 
+<a href = "https://github.com/yohanawi" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>  
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=yohanawi"> </a>
