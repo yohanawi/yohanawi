@@ -33,10 +33,10 @@
    ![](https://github-readme-streak-stats.herokuapp.com/?user=yohanawi&theme=tokyonight&hide_border=false)
 </br>
 <h2>📊 My Github Stats</h2>
-<img src = "https://github-readme-stats.vercel.app/api?username=yohanawi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+![](https://github-readme-stats.vercel.app/api?username=yohanawi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<br/>
- <a href="https://github.com/yohanawi/github-readme-stats"><img alt="Yohan Awishka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanawi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanawi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
   <br/>
    
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
