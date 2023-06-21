@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, My name is Yohan Awishka</h1>
 
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile+%F0%9F%8E%93" alt="Typing SVG" /></a></a>
+</p>
+
 <h3 align="center">I am a passionate Developer from Sri Lanka.</h3>
 
 - 👋 Hi, I’m @yohanawi
@@ -22,6 +26,7 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
@@ -30,21 +35,15 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=yohanawi&theme=tokyonight&hide_border=false)
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohanawi&theme=tokyonight&hide_border=false"/></p>
 </br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yohanawi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanawi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yohanawi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/> <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanawi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
 
-  <br/>
-   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-<br/>
-
-<a href="https://github.com/yohanawi/github-readme-activity-graph"><img alt="Yohan Awishka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yohanawi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
