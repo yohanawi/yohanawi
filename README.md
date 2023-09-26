@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi there, My name is Yohan Awishka</h1>
 
 <p align="center">
@@ -6,13 +7,22 @@
 
 <h3 align="center">I am a passionate Developer from Sri Lanka.</h3>
 
-- 👋 Hi, I’m @yohanawi
-- 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Sri Lanka Institute of Information Technology 
-- 💞️ I’m looking to collaborate on OpenSource Projects.
-- 📫 How to reach me : yohanawishka2000326@gmail.com
-- 🔭 I’m currently working on this page. 
+<table align="center">
+<tr border="none">
+<td width="60%" align="left">
+- 👋 Hi, I’m @yohanawi <br/>
+- 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree. <br/>
+- 👀 I’m interested in Web-Developer <br/>
+- 🌱 I’m currently learning Sri Lanka Institute of Information Technology <br/>
+- 💞️ I’m looking to collaborate on OpenSource Projects. <br/>
+- 📫 How to reach me : yohanawishka2000326@gmail.com <br/>
+- 🔭 I’m currently working on this page.  <br/>
+</td>
+<td width="40%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  </td>
+</tr>
+</table>
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -34,20 +44,32 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohanawi&theme=tokyonight&hide_border=false"/></p>
+    </td>
+</tr>
+</table>
 </br>
 
 ## GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yohanawi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/> <br/>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yohanawi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/> <br/></td>
+<td width="50%" align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanawi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
+  </td>
+</tr>
+</table>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 <br/>
 
-## Connect with me:
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href = "https://www.linkedin.com/in/yohan-indrwansha-16921817a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/yohan_awishka1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -58,6 +80,9 @@
 <a href = "https://dribbble.com/yohanawishka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a> 
 <a href = "https://github.com/yohanawi" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>  
 </p>
+
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/yohanawi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=yohanawi"> </a>
