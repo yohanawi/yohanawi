@@ -11,11 +11,11 @@
 <tr border="none">
 <td width="60%" align="left">
 - 👋 Hi, I’m @yohanawi <br/>
-- 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree. <br/>
+- 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Degree. <br/>
 - 👀 I’m interested in Web-Developer <br/>
 - 🌱 I’m currently learning Sri Lanka Institute of Information Technology <br/>
 - 💞️ I’m looking to collaborate on OpenSource Projects. <br/>
-- 📫 How to reach me : yohanawishka2000326@gmail.com <br/>
+- 📫 How to reach me : yohan.indrawansha2000@gmail.com <br/>
 - 🔭 I’m currently working on this page.  <br/>
 </td>
 <td width="40%" align="center">
