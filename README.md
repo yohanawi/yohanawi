@@ -11,9 +11,9 @@
 <tr border="none">
 <td width="60%" align="left">
 - 👋 Hi, I’m @yohanawi <br/>
-- 🎓 I’m currently graduated in BSc (Hons) in Information Technology, specialization in Information Technology. <br/>
+- 🎓 I’m graduated in BSc (Hons) in Information Technology, specialization in Information Technology. <br/>
 - 👀 I’m interested in Web-Developer <br/>
-- 🌱 I’m currently learning Sri Lanka Institute of Information Technology <br/>
+- 🌱 I’m studied Sri Lanka Institute of Information Technology <br/>
 - 💞️ I’m looking to collaborate on OpenSource Projects. <br/>
 - 📫 How to reach me : yohan.indrawansha2000@gmail.com <br/>
 - 🔭 I’m currently working on this page.  <br/>
