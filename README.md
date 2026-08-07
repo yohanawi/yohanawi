@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn"
     width="100%"
     alt="Header banner"
   />
@@ -16,7 +16,7 @@
   <h3>Full-Stack Developer from Sri Lanka 🇱🇰</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Passionate+Full-Stack+Developer;Open-Source+Enthusiast;Building+Ideas+Through+Code;Always+Learning+New+Technologies" alt="Typing introduction"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Passionate+Full+Stack+Developer;Building+amazing+digital+products!"
     />
   </a>
   <br/>
@@ -48,9 +48,9 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="65%" valign="middle">
+    <td width="50%" valign="top" style="padding: 20px; border: none;">
 
 <h3>Hi, I'm Yohan Awishka 👋</h3>
 
@@ -75,18 +75,18 @@
 
 📫 **Email:**  <a href="mailto:yohan.indrawansha2000@gmail.com">yohan.indrawansha2000@gmail.com</a>
 
-</td>
+    </td>
 
-<td width="35%" align="center" valign="middle">
-
-<img
-  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
-  width="300"
-  alt="Developer"
-/>
-
-</td>
-</tr>
+    <td width="50%" style="padding: 0; border: none; margin: 0; overflow: hidden;">
+      <img
+        src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
+        width="100%"
+        height="100%"
+        style="width: 100%; height: 100%; object-fit: cover; display: block;"
+        alt="Developer"
+      />
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -96,7 +96,7 @@
 <div align="center">
 
   <img
-    src="https://skillicons.dev/icons?i=java,js,python,html,css,react,spring,laravel,nodejs,express,redux,bootstrap,mysql,mongodb,firebase,git,github,jenkins,figma,postman,vscode&theme=dark&perline=11"
+    src="https://skillicons.dev/icons?i=java,js,python,html,css,react,spring,laravel,nodejs,express,redux,bootstrap,mysql,mongodb,firebase,git,github,jenkins,figma,postman,vscode&theme=dark&perline=7"
     alt="Languages and Technologies"
   />
 
@@ -170,7 +170,7 @@ Then use:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=yohanawi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Yohan Awishka's GitHub statistics"/><img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yohanawi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Yohan Awishka's most used programming languages"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=yohanawi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Yohan Awishka's GitHub Stats">
 
   <br/><br/>
 
@@ -284,7 +284,7 @@ Then use:
   <img
     src="https://komarev.com/ghpvc/?username=yohanawi&label=Profile%20Views&color=0e75b6&style=for-the-badge"
     alt="GitHub profile views"
-  /><img src="https://img.shields.io/github/followers/yohanawi?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/><img src="https://img.shields.io/github/stars/yohanawi?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub stars"/>
+  /><img src="https://img.shields.io/github/followers/yohanawi?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/><img src="https://img.shields.io/github/stars/yohanawi?style=for-the-badge&logo=github" alt="GitHub stars"/>
 
 </div>
 
