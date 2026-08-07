@@ -48,42 +48,39 @@
 
 ## 👨‍💻 About Me
 
-<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: stretch;">
-  <div style="grid-column: 1; padding: 20px;">
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ### Hi, I'm Yohan Awishka 👋
 
 🎓 **BSc (Hons) in Information Technology**  
 &nbsp;&nbsp;&nbsp;&nbsp;Sri Lanka Institute of Information Technology (SLIIT)
- 
 
 💻 Passionate about **Full-Stack Web Development**
- 
 
 🌱 Currently learning modern frameworks and cloud technologies.
- 
 
 🚀 Building scalable web applications and software solutions.
- 
 
 🤝 Open to collaborating on **Open Source Projects**.
- 
 
 🎯 Goal: Create reliable, user-friendly, and impactful digital products.
- 
 
 📫 **Email:**  <a href="mailto:yohan.indrawansha2000@gmail.com">yohan.indrawansha2000@gmail.com</a>
 
-  </div>
+</td>
+<td width="35%" valign="middle" align="center">
 
-  <div style="grid-column: 2; padding: 0; overflow: hidden; border-radius: 8px; height: 100%;">
-    <img
-      src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
-      alt="Developer"
-      style="width: 100%; height: 100%; object-fit: cover; display: block;"
-    />
-  </div>
-</div>
+<img
+  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
+  alt="Developer"
+  style="width: 100%; border-radius: 8px;"
+/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
