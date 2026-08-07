@@ -48,8 +48,8 @@
 
 ## 👨‍💻 About Me
 
-<div style="display: flex; gap: 20px; align-items: stretch;">
-  <div style="flex: 1; padding: 20px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: stretch;">
+  <div style="grid-column: 1; padding: 20px;">
 
 ### Hi, I'm Yohan Awishka 👋
 
@@ -76,7 +76,7 @@
 
   </div>
 
-  <div style="flex: 1; padding: 0; overflow: hidden; border-radius: 8px;">
+  <div style="grid-column: 2; padding: 0; overflow: hidden; border-radius: 8px; height: 100%;">
     <img
       src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
       alt="Developer"
