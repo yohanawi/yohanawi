@@ -1,5 +1,10 @@
 <div align="center">
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    width="100%"
+    alt="Header banner"
+  />
+  
   <img
     src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
     width="120"
@@ -11,14 +16,10 @@
   <h3>Full-Stack Developer from Sri Lanka 🇱🇰</h3>
 
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Passionate+Full-Stack+Developer;Open-Source+Enthusiast;Building+Ideas+Through+Code;Always+Learning+New+Technologies"
-      alt="Typing introduction"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Passionate+Full-Stack+Developer;Open-Source+Enthusiast;Building+Ideas+Through+Code;Always+Learning+New+Technologies" alt="Typing introduction"
     />
   </a>
-
-  <br/><br/>
-
+  <br/>
   <a href="mailto:yohan.indrawansha2000@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -40,14 +41,7 @@
     />
   </a>
 
-  <br/><br/>
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-    width="100%"
-    alt="Header banner"
-  />
-
+  <br/> 
 </div>
 
 <br/>
@@ -62,33 +56,24 @@
 
 🎓 **BSc (Hons) in Information Technology**  
 &nbsp;&nbsp;&nbsp;&nbsp;Sri Lanka Institute of Information Technology (SLIIT)
-
-<br/>
+ 
 
 💻 Passionate about **Full-Stack Web Development**
-
-<br/>
+ 
 
 🌱 Currently learning modern frameworks and cloud technologies.
-
-<br/>
+ 
 
 🚀 Building scalable web applications and software solutions.
-
-<br/>
+ 
 
 🤝 Open to collaborating on **Open Source Projects**.
-
-<br/>
+ 
 
 🎯 Goal: Create reliable, user-friendly, and impactful digital products.
+ 
 
-<br/>
-
-📫 **Email:**  
-<a href="mailto:yohan.indrawansha2000@gmail.com">
-  yohan.indrawansha2000@gmail.com
-</a>
+📫 **Email:**  <a href="mailto:yohan.indrawansha2000@gmail.com">yohan.indrawansha2000@gmail.com</a>
 
 </td>
 
