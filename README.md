@@ -115,8 +115,6 @@
     alt="Languages and Technologies"
   />
 
-</div> 
-
   <br/><br/>
 
   <code>Java</code> ·
@@ -187,18 +185,7 @@ Then use:
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=yohanawi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="Yohan Awishka's GitHub statistics"
-  />
-
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yohanawi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Yohan Awishka's most used programming languages"
-  />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=yohanawi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Yohan Awishka's GitHub statistics"/><img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yohanawi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Yohan Awishka's most used programming languages"/>
 
   <br/><br/>
 
@@ -312,17 +299,7 @@ Then use:
   <img
     src="https://komarev.com/ghpvc/?username=yohanawi&label=Profile%20Views&color=0e75b6&style=for-the-badge"
     alt="GitHub profile views"
-  />
-
-  <img
-    src="https://img.shields.io/github/followers/yohanawi?label=Followers&style=for-the-badge&logo=github"
-    alt="GitHub followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/yohanawi?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars"
-    alt="GitHub stars"
-  />
+  /><img src="https://img.shields.io/github/followers/yohanawi?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/><img src="https://img.shields.io/github/stars/yohanawi?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub stars"/>
 
 </div>
 
